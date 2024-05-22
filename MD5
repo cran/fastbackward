@@ -1,0 +1,9 @@
+01f0d493887fba27a57f2cbb526d09fe *DESCRIPTION
+72d51f06cdffcaf4fb3996069ade7402 *NAMESPACE
+1d84a92baccf4f668dae8fd911a0c17d *NEWS.md
+d644cdf310892d879b83ec51b05ffea5 *R/fastbackward-package.R
+09b3eaeb2bed70cb7bbe1cac91c4b983 *R/fastbackward.R
+6fcb264820a816c2fe3acd57a838bee9 *man/fastbackward.Rd
+d86fbb46a501b67efad2a276ef18847c *tests/testthat.R
+313590a9812387b56016eb2f654345f2 *tests/testthat/test-fastbackward.R
+17ec600cdc496003b22fbdefd51320af *tests/testthat/test-fastbackwardscope.R
